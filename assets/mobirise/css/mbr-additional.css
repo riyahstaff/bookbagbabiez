@@ -1145,18 +1145,12 @@ a {
 }
 @media (min-width: 992px) {
   .cid-twE5e54m8p .item-wrapper .item-content {
-    padding: 2rem 2rem 0;
-  }
-  .cid-twE5e54m8p .item-wrapper .item-footer {
-    padding: 0 2rem 2rem;
+    padding: 2rem;
   }
 }
 @media (max-width: 991px) {
   .cid-twE5e54m8p .item-wrapper .item-content {
-    padding: 1rem 1rem 0;
-  }
-  .cid-twE5e54m8p .item-wrapper .item-footer {
-    padding: 0 1rem 1rem;
+    padding: 1rem;
   }
 }
 .cid-twE5e54m8p .mbr-section-btn {
